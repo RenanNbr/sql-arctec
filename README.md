@@ -1,1 +1,1 @@
-# sql-arctec
+# sql-arctec pasta (lib)
